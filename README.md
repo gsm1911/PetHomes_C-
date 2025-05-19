@@ -1,8 +1,21 @@
-Programa CLI feito em C# para aprender seus fundamentos. Simula o funcionamento de um petshop, permitindo cadastrar gatos ou cachorros até um limite, verificar a validade dos dados, e por fim a edição das informações de cada pet.
+# 🐾 PetShop CLI em C#
 
-Habilidades desenvoldidas:
--Controle de laços
--Estrutura de Dados (Array)
--Árvores de decisão
--Mostrar informações no console
--Receber entradas do usuário no console
+Este é um programa de linha de comando (CLI) desenvolvido em **C#** com o objetivo de praticar e consolidar fundamentos da linguagem.
+
+O sistema simula o funcionamento básico de um petshop, permitindo:
+
+- 📋 Cadastrar **gatos** ou **cachorros** (com limite máximo de registros)
+- ✅ Verificar a validade dos dados inseridos
+- ✏️ Editar as informações de cada pet
+
+## 🧠 Habilidades desenvolvidas
+
+- 🔁 Controle de laços (loops)
+- 📦 Estrutura de Dados com **Arrays**
+- 🌳 Uso de **Árvores de Decisão** (`if`, `else if`, `else`, `switch`)
+- 🖥️ Exibição de informações no console
+- ⌨️ Recebimento de entradas do usuário via console
+
+---
+
+> Projeto com fins educacionais para reforço dos conceitos básicos de C# e lógica de programação.
